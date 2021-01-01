@@ -9,6 +9,7 @@
 
 [<img align="left" alt="BiggerBob | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="frontend_rob.css | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -28,3 +29,4 @@
 [github]: https://github.com/RobzLegz
 [youtube]: https://www.youtube.com/channel/UCkF4CBkkQxLCYWbDlhKHbig
 [instagram]: https://www.instagram.com/frontend_rob.css/
+[twitter]: https://twitter.com/Rob26852574

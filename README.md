@@ -29,4 +29,4 @@
 [github]: https://github.com/RobzLegz
 [youtube]: https://www.youtube.com/channel/UCkF4CBkkQxLCYWbDlhKHbig
 [instagram]: https://www.instagram.com/robzlegz/
-[twitter]: https://twitter.com/Rob26852574
+[twitter]: https://twitter.com/RobzLegz

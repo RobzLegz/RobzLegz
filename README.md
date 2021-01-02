@@ -1,6 +1,6 @@
 ### Hi, my name is Rob 👋
 
-## I'm a front end developer from Latvia!
+## I'm a front end web developer from Latvia!
 
 - I'm currently learning React JS and Python
 - My 2021 goals are to contribute and learn as much as possible

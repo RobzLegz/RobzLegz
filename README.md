@@ -14,7 +14,8 @@
 
 <br />
 
-## My portfolio: [<h2 text-decoration="none">@Portfolio Website</h2>][portfolio]
+## My portfolio: 
+[<h4 text-decoration="none">@Portfolio Website</h4>][portfolio]
 
 ### Languages and Tools:
 

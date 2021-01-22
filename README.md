@@ -2,9 +2,10 @@
 
 ## I'm a front end web developer from Latvia!
 
-- I'm currently learning React JS and Python
-- My 2021 goals are to contribute and learn as much as possible
-- Currently working on Tesla website clone
+- I'm currently learning React JS and Python 📚
+- My 2021 goals are to contribute and learn as much as possible ✔️
+- Tesla website clone under construction 	🚧
+- Working on some more projects for my portfolio 👷
 
 ### Contact me:
 

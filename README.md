@@ -17,6 +17,10 @@
 
 [<h3 text-decoration="none">🌐Portfolio Website</h3>][portfolio]
 
+## Some of my work:
+
+- Todo app with database 🌐[todoapp]
+
 ### Languages and Tools:
 
 
@@ -39,3 +43,6 @@
 [twitter]: https://twitter.com/RobzLegz
 [react]: https://www.youtube.com/watch?v=zEGRFLCiWHY&list=PLy6hXK8bGyoJYQlFYsn-Aka3Fp-zqwxUS
 [portfolio]: https://developer-rob.netlify.app/
+[todoapp]: https://python-flask-todo-app.herokuapp.com/
+[aimtrainer]: https://speed-aim-trainer.netlify.app
+[flowershop]: https://karkade.netlify.app

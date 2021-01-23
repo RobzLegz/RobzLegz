@@ -19,7 +19,7 @@
 
 ## Some of my work:
 <div display="flex">
-  🌐[Todo app with database]
+  <a href=[Todo app with database]>🌐</a>
   🌐[Aim trainer]
   🌐[Website for flowershop]
 </div>

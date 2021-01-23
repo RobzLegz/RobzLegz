@@ -19,7 +19,7 @@
 
 ## Some of my work:
 
-- 🌐[todoapp]
+- 🌐[Todo app with database]
 
 ### Languages and Tools:
 

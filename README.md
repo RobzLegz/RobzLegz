@@ -18,11 +18,11 @@
 [<h3 text-decoration="none">🌐Portfolio Website</h3>][portfolio]
 
 ## Some of my work:
-<div display="flex">
-  <a href=[Todo app with database]>🌐</a>
-  🌐[Aim trainer]
-  🌐[Website for flowershop]
-</div>
+
+-  🌐[Todo app with database]
+-  🌐[Aim trainer]
+-  🌐[Website for flowershop]
+
 
 ### Languages and Tools:
 

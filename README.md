@@ -20,6 +20,8 @@
 ## Some of my work:
 
 - 🌐[Todo app with database]
+- 🌐[Aim trainer]
+- 🌐[Website for flowershop]
 
 ### Languages and Tools:
 
@@ -44,5 +46,5 @@
 [react]: https://www.youtube.com/watch?v=zEGRFLCiWHY&list=PLy6hXK8bGyoJYQlFYsn-Aka3Fp-zqwxUS
 [portfolio]: https://developer-rob.netlify.app/
 [Todo app with database]: https://python-flask-todo-app.herokuapp.com/
-[aimtrainer]: https://speed-aim-trainer.netlify.app
-[flowershop]: https://karkade.netlify.app
+[Aim trainer]: https://speed-aim-trainer.netlify.app
+[Website for flowershop]: https://karkade.netlify.app

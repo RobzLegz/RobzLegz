@@ -4,7 +4,7 @@
 
 - I'm currently learning React JS and Python 📚
 - My 2021 goals are to contribute and learn as much as possible ✔️
-- Tesla website clone under construction 	🚧
+- Tesla website and zoom clone under construction 	🚧
 - Working on some more projects for my portfolio 👷
 
 ### Contact me:

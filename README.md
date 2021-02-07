@@ -9,10 +9,11 @@
 
 ### Contact me:
 
+[<img align="left" alt="RobzLegz | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img align="left" alt="BiggerBob | YouTube" width="22px" src="https://image.flaticon.com/icons/png/128/1384/1384060.png" />][youtube]
 [<img align="left" alt="frontend_rob.css | Instagram" width="22px" src="https://i.pinimg.com/originals/34/ad/a1/34ada1638ef7bef370e593e45e2cd29a.png" />][instagram]
 [<img align="left" alt="RobzLegz | Twitter" width="22px" src="https://icon-library.com/images/twitter-svg-icon/twitter-svg-icon-28.jpg" />][twitter]
-[<img align="left" alt="RobzLegz | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][twitter]
+
 
 <br />
 
@@ -50,3 +51,4 @@
 [Todo app with database]: https://python-flask-todo-app.herokuapp.com/
 [Aim trainer]: https://speed-aim-trainer.netlify.app
 [Website for flowershop]: https://karkade.netlify.app
+[linkedin]: https://www.linkedin.com/in/roberts-legzdins-438254206/

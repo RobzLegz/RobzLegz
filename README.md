@@ -44,7 +44,7 @@
 [instagram]: https://www.instagram.com/robzlegz/
 [twitter]: https://twitter.com/RobzLegz
 [react]: https://www.youtube.com/watch?v=zEGRFLCiWHY&list=PLy6hXK8bGyoJYQlFYsn-Aka3Fp-zqwxUS
-[portfolio]: https://developer-rob.netlify.app/
+[portfolio]: https://robdeveloperportfolio.herokuapp.com/
 [Todo app with database]: https://python-flask-todo-app.herokuapp.com/
 [Aim trainer]: https://speed-aim-trainer.netlify.app
 [Website for flowershop]: https://karkade.netlify.app

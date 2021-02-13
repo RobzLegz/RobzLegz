@@ -46,7 +46,7 @@
 
 ### I am freelancing on:
 [<img align="left" alt="RobzLegz | Twitter" width="22px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/upwork-icon.png" />][upwork]
-[<img align="left" alt="RobzLegz | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="RobzLegz | Twitter" width="22px" src="https://s23.q4cdn.com/749308338/files/doc_news/archive/FIV_Logo.png" />][linkedin]
 [<img align="left" alt="RobzLegz | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
 [github]: https://github.com/RobzLegz

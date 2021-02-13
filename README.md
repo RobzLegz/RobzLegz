@@ -45,7 +45,7 @@
 <br />
 
 ### I am freelancing on:
-[<img align="left" alt="RobzLegz | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/picons-social/57/79-upwork-2-512.png" />][linkedin]
+[<img align="left" alt="RobzLegz | Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/picons-social/57/79-upwork-2-512.png" />][upwork]
 [<img align="left" alt="RobzLegz | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 [<img align="left" alt="RobzLegz | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
@@ -59,3 +59,4 @@
 [Aim trainer]: https://speed-aim-trainer.netlify.app
 [Website for flowershop]: https://karkade.netlify.app
 [linkedin]: https://www.linkedin.com/in/roberts-legzdins-438254206/
+[upwork]: https://www.upwork.com/freelancers/~013cb2b6d9115efcfb

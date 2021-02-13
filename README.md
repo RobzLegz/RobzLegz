@@ -44,6 +44,11 @@
 <br />
 <br />
 
+### I am freelancing on:
+[<img align="left" alt="RobzLegz | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="RobzLegz | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+[<img align="left" alt="RobzLegz | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
+
 [github]: https://github.com/RobzLegz
 [youtube]: https://www.youtube.com/channel/UClylM3NxOVUwd3LokzTzBFw
 [instagram]: https://www.instagram.com/robzlegz/

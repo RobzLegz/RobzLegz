@@ -46,7 +46,7 @@
 
 ### I am freelancing on:
 [<img align="left" alt="RobzLegz | Twitter" width="22px" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/upwork-icon.png" />][upwork]
-[<img align="left" alt="RobzLegz | Twitter" width="22px" src="https://s23.q4cdn.com/749308338/files/doc_news/archive/FIV_Logo.png" />][linkedin]
+[<img align="left" alt="RobzLegz | Twitter" width="22px" src="https://s23.q4cdn.com/749308338/files/doc_news/archive/FIV_Logo.png" />][fiverr]
 [<img align="left" alt="RobzLegz | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
 
 [github]: https://github.com/RobzLegz
@@ -60,3 +60,4 @@
 [Website for flowershop]: https://karkade.netlify.app
 [linkedin]: https://www.linkedin.com/in/roberts-legzdins-438254206/
 [upwork]: https://www.upwork.com/freelancers/~013cb2b6d9115efcfb
+[fiverr]: https://www.fiverr.com/robertlegzdin

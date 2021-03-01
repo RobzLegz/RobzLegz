@@ -1,4 +1,4 @@
-### Hi, my name is Rob 👋
+### Hi, my name is Robert 👋
 
 ## I'm a front end web developer from Latvia!
 

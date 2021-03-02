@@ -2,9 +2,8 @@
 
 ## I'm a front end web developer from Latvia!
 
-- I'm currently learning React JS and Python 🐍
+- I'm currently learning Python 🐍
 - My 2021 goals are to contribute and learn as much as possible ✔️
-- Working on some more projects for my portfolio 👷
 - Aviable for remote freelance jobs 💼
 - I would love to coach/mentor others👨‍🏫
 

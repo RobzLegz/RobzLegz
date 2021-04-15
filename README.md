@@ -37,10 +37,11 @@
 [<img align="left" alt="Next" height="26px" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" />]
 [<img align="left" alt="Redux" height="26px" src="https://2.bp.blogspot.com/-_q-IALzelkI/WLW6yJ9c11I/AAAAAAAAAb4/-HA-24ZeSMwORG3OPapbxDFSqOMAbB_nACLcB/s400/logo.png" />]
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][instagram]
+[<img align="left" alt="Flask" width="26px" src="https://www.itechart.com/media/images/icon_page_python-09.original.png" />]
 <img align="left" alt="figma" height="26px" src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png"/>
 [<img align="left" alt="GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />][github]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][instagram]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />][instagram]
+[<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />][instagram]
 <img align="left" alt="firebase" width="26px" src="https://img.icons8.com/color/452/firebase.png"/>
 
 <br />

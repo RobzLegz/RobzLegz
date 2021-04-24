@@ -60,6 +60,6 @@
 [Todo app with database]: https://python-flask-todo-app.herokuapp.com/
 [Aim trainer]: https://speed-aim-trainer.netlify.app
 [Website for flowershop]: https://karkade.netlify.app
-[linkedin]: https://www.linkedin.com/in/roberts-legzdins-438254206/
+[linkedin]: https://www.linkedin.com/in/roberts-legzdi%C5%86%C5%A1-438254206/
 [upwork]: https://www.upwork.com/freelancers/~013cb2b6d9115efcfb
 [fiverr]: https://www.fiverr.com/robertlegzdin

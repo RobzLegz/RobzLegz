@@ -20,7 +20,6 @@
 
 ## Some of my work:
 
--  🌐[Todo app with database]
 -  🌐[Aim trainer]
 -  🌐[Website for flowershop]
 

@@ -3,9 +3,7 @@
 ## I'm a front end web developer from Latvia!
 
 - I'm currently learning Python 🐍
-- My 2021 goals are to contribute and learn as much as possible ✔️
-- Aviable for remote freelance jobs 💼
-- I would love to coach/mentor others👨‍🏫
+- My 2021 goals are to learn and contribute as much as possible ✔️
 
 ### Contact me:
 

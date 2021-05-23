@@ -16,10 +16,13 @@
 
 [<h3 text-decoration="none">🌐Portfolio Website</h3>][portfolio]
 
-## Some of my work:
-
--  🌐[Aim trainer]
--  🌐[Website for flowershop]
+## Top skills:
+<ul>
+<li><h3>Javasript</h3></li>
+<li><h3>React</h3></li>
+<li><h3>Redux</h3></li>
+<li><h3>Flask</h3></li>
+</ul>
 
 
 ### Languages and Tools:

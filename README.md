@@ -18,10 +18,10 @@
 
 ## Top skills:
 <ul>
-<li><h3>Javasript</h3></li>
-<li><h3>React</h3></li>
-<li><h3>Redux</h3></li>
-<li><h3>Flask</h3></li>
+<li><h4>Javasript</h4></li>
+<li><h4>React</h4></li>
+<li><h4>Redux</h4></li>
+<li><h4>Flask</h4></li>
 </ul>
 
 

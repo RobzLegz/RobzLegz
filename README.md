@@ -4,9 +4,12 @@ I enjoy writing code and learning new programming languages and skills.
 
 - 🟣 I'm currently learning elixir
 - 👯 I’m looking to collaborate on Full stack web development
-
 - 📫 How to reach me: [robzlegz@gmail.com](mailto:robzlegz@gmail.com)
 
+## Find me around the web 🌍
+
+- [Instagram](https://www.instagram.com/robzlegz)
+- [LinkedIn](https://www.linkedin.com/in/roberts-legzdi%C5%86%C5%A1-438254206/)
 
 ## My skills
 
@@ -28,3 +31,14 @@ I enjoy writing code and learning new programming languages and skills.
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/figma-0AC97F?style=for-the-badge&logo=figma&logoColor=white)
 
+
+## Some of my work:
+
+- [Mathroom](https://mathroom.vercel.app)
+- [YouthDeal](https://youthdeal.vercel.app)
+
+## Some stats
+
+![RobzLegz's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobzLegz&show_icons=true&theme=synthwave)
+
+<!-- <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=RobzLegz'></p> -->

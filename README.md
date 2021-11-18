@@ -35,12 +35,14 @@ I enjoy writing code and learning new programming languages and skills.
 ## Some of my work:
 
 - [Mathroom](https://mathroom.vercel.app)
-A web app that teaches math in a fun way
-- [YouthDeal](https://youthdeal.vercel.app)
-A web app that connects young jobseekers to employers
+A web app that teaches math in a fun way [code](https://github.com/RobzLegz/mathroom)
+- [YouthDeal](https://youthdeal.vercel.app) 
+A web app that connects young jobseekers to employers [code](https://github.com/RobzLegz/youthdeal)
 
 ## Some stats
 
 ![RobzLegz's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobzLegz&show_icons=true&theme=synthwave)
 
-<!-- <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=RobzLegz'></p> -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RobzLegz&theme=synthwave&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobzLegz&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)

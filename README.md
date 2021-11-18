@@ -3,7 +3,7 @@
 I enjoy writing code and learning new programming languages and skills. 
 
 - 🟣 I'm currently learning elixir
-- 👯 I’m looking to collaborate on Full stack web development
+- 🤖 Developing software to learn 
 - 📫 How to reach me: [robzlegz@gmail.com](mailto:robzlegz@gmail.com)
 
 ## Find me around the web 🌍
@@ -35,7 +35,9 @@ I enjoy writing code and learning new programming languages and skills.
 ## Some of my work:
 
 - [Mathroom](https://mathroom.vercel.app)
+A web app that teaches math in a fun way
 - [YouthDeal](https://youthdeal.vercel.app)
+A web app that connects young jobseekers to employers
 
 ## Some stats
 

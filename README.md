@@ -1,6 +1,6 @@
 # Hi I'm Rob 👋
 
-I enjoy writing code and learning new programming languages and skills. 
+I'm a full stack deeveloper. I enjoy writing code and learning new programming languages and skills. 
 
 - 🟣 I'm currently learning elixir
 - 🤖 Developing software to learn 

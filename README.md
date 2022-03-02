@@ -2,7 +2,7 @@
 
 I'm a full stack developer. I enjoy writing code and learning new programming languages and skills. 
 
-- 🟣 I'm currently learning elixir
+- 🟣 I'm currently learning every single programming language out there
 - 🤖 Developing software to learn 
 - 📫 How to reach me: [robzlegz@gmail.com](mailto:robzlegz@gmail.com)
 

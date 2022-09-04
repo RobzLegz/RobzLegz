@@ -3,7 +3,7 @@
 I'm a full stack developer. I enjoy writing code and learning new programming languages and skills. 
 
 - 🟣 I'm currently learning every single programming language out there
-- 🤖 Developing software to learn 
+- 🤖 Developing software for fun 
 - 📫 How to reach me: [robzlegz@gmail.com](mailto:robzlegz@gmail.com)
 - 💻 Cofounder at [extegna](https://extegna.com) - Software/web development agency
 

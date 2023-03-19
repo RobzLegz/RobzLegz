@@ -10,6 +10,7 @@ I'm a full stack developer. I enjoy writing code and learning.
 ## Find me around the web 🌍
 
 - [Instagram](https://www.instagram.com/robzlegz)
+- [Twitter](https://www.twitter.com/robzlegz)
 - [LinkedIn](https://www.linkedin.com/in/roberts-legzdi%C5%86%C5%A1-438254206/)
 
 ## My skills

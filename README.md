@@ -1,11 +1,11 @@
 # Hi I'm Rob 👋
 
-I'm a full stack developer. I enjoy writing code and learning new programming languages and skills. 
+I'm a full stack developer. I enjoy writing code and learning.
 
-- 🟣 I'm currently learning every single programming language out there
-- 🤖 Developing software for fun 
+- 💻 4+ years of coding experience.
+- 🤖 Developing software solutions for businesses.
 - 📫 How to reach me: [robzlegz@gmail.com](mailto:robzlegz@gmail.com)
-- 💻 Cofounder at [extegna](https://extegna.com) - Software/web development agency
+- ⚡ Quickstack & spotloc
 
 ## Find me around the web 🌍
 
@@ -35,10 +35,8 @@ I'm a full stack developer. I enjoy writing code and learning new programming la
 
 ## Some of my work:
 
-- [Mathroom](https://mathroom.vercel.app)
-A web app that teaches math in a fun way [code](https://github.com/RobzLegz/mathroom)
-- [YouthDeal](https://youthdeal.vercel.app) 
-A web app that connects young jobseekers to employers [code](https://github.com/RobzLegz/youthdeal)
+- [Spotloc](https://spotloc.lv)
+- [Karkade](https://karkade.vercel.app) 
 
 <!-- ## Some stats
 

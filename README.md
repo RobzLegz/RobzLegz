@@ -37,6 +37,7 @@ I'm a full stack developer. I enjoy writing code and learning.
 ## Some of my work:
 
 - [Spotloc](https://spotloc.lv)
+- [Quickstack](https://quickstack.lv)
 - [Karkade](https://karkade.vercel.app) 
 
 <!-- ## Some stats

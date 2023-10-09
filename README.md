@@ -12,3 +12,9 @@ I'm a full stack developer. I enjoy writing code and learning.
 - [Instagram](https://www.instagram.com/robzlegz)
 - [Twitter](https://www.twitter.com/robzlegz)
 - [LinkedIn](https://www.linkedin.com/in/roberts-legzdi%C5%86%C5%A1-438254206/)
+
+## Checkout out some of my work:
+
+- [Spotloc](https://spotloc.lv/web)
+- [S.T.A.R Terminal](https://github.com/RobzLegz/space-apps-2023)
+- [Kidala upload](https://github.com/RobzLegz/kidala-upload)
